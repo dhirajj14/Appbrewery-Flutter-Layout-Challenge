@@ -1,16 +1,13 @@
-# flutterlayoutchallenge
+# Flutter Layout Challenge
 
 A flutter layout challenge for row and column layout
 
-## Getting Started
+## Challenge
 
-This project is a starting point for a Flutter application.
+This challenge is by appbrewery.com Flutter course.
+The challenge is to create a layout given in the below image.
 
-A few resources to get you started if this is your first Flutter project:
+![Layout-Challenge-Specs](https://user-images.githubusercontent.com/54300222/86526363-e49b3d80-be58-11ea-90ba-d2f62c7086a2.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Completed Challenge
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
