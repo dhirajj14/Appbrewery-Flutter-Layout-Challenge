@@ -11,4 +11,4 @@ The challenge is to create a layout given in the below image.
 
 ## Completed Challenge
 
-<img width="387" alt="Screen Shot 2020-07-05 at 12 59 48 AM" src="https://user-images.githubusercontent.com/54300222/86526538-e0701f80-be5a-11ea-9a23-bbb8c89a07a2.png">
+<img height="400" alt="Screen Shot 2020-07-05 at 12 59 48 AM" src="https://user-images.githubusercontent.com/54300222/86526538-e0701f80-be5a-11ea-9a23-bbb8c89a07a2.png">
